@@ -1,0 +1,2 @@
+<br />
+<b>Warning</b>:  readfile(/var/www/allfont.ru/protected/fonts/woff/6851.woff): failed to open stream: Permission denied in <b>/var/www/allfont.ru/engine/routes/homepage.php</b> on line <b>935</b><br />
